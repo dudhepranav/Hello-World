@@ -4,7 +4,7 @@ def add(x,y):
 
 #Substract implementation   
 def substract(x,y):
-    return x-y #Imply mul MAster branch
+    return y-x #commit done on Remote repository
 
 #Multiply implementation    
 def multiply(x,y):
