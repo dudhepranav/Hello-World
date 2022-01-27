@@ -16,3 +16,8 @@ def divide(x,y):
         return INVALID 
     else 
         return x/y #On MAster Branch
+
+#Square implementation
+def square(x)
+    return x*x
+    
