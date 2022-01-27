@@ -19,7 +19,7 @@ def divide(x,y):
 
 #Square implementation
 def square(x)
-    return y*x*x y==1 #done on local repository
+    return y*X*X if(y==1) #done on local repository
     
 #implemetn double function
 def double(x)
