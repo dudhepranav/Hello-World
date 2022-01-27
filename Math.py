@@ -25,4 +25,10 @@ def square(x)
 def double(x)
     return x.0
     
+<<<<<<< HEAD
     
+=======
+#you are now in new branch Bug456
+#Welcome here
+    
+>>>>>>> 1e80c10 (Commit on Bug456)
