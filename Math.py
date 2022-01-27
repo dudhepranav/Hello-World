@@ -8,7 +8,7 @@ def substract(x,y):
 
 #Multiply implementation    
 def multiply(x,y):
-    return x*y #Imply mul over A123 Branch
+    return y*x #commit done on local repository
 
 #Divide implementation    
 def divide(x,y):
