@@ -21,3 +21,8 @@ def divide(x,y):
 def square(x)
     return x*x
     
+#implemetn double function
+def double(x)
+    return x.0
+    
+    
